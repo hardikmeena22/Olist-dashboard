@@ -6,3 +6,5 @@ Key metrics:Total Revenue, Average Order Value, Revenue by Product Category, Ord
 
 Tools: Power BI Desktop, DAX
 Dataset: Olist (Kaggle) — orders, order items, products tables
+
+Full.pbix file : https://drive.google.com/file/d/1qNLADZlOwkA8ndiRSnToR74zEIzKHPSd/view?usp=sharing
